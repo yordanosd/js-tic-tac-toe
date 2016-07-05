@@ -1,3 +1,68 @@
 html {
-  
+}
+
+body{
+  /*width: 100%;*/
+  background-image: url("http://www.bestlifestyle.us/download/flags-of-the-game-of-thrones-kingdom-the-nine-ruling_1920x1200_51-wide.jpg");
+  background-size: 100%;
+  text-align: center;
+
+/*background-image: url("http://fontmeme.com/embed.php?text=GAME%20OF%20TIC%20TAC%20TOE&name=Game%20of%20Thrones.ttf&size=100&style_color=F7F7FA")
+
+background-image: url("https://s-media-cache-ak0.pinimg.com/564x/66/aa/82/66aa823126f27bfdc77187049fce1feb.jpg")*/
+}
+
+
+
+table{
+  /*text-align: center;*/
+  /*width: 50%;  */
+  margin: auto;
+  background-color: white;
+  padding: (30px, 30px, 30px, 80px);
+
+}
+
+td {
+  width: 150px;
+  height: 150px;
+  /*margin: 0;
+  border: 0;
+  padding: 0;*/
+
+}
+
+
+
+button{
+  width: 100%;
+  height: 100%;
+  background-image: url("http://gamingtrend.com/wp-content/screenshots/game-of-thrones-ascent/GOTA_Ancestral-Valerian-Sword.jpg");
+  background-size: cover;
+}
+
+.player2{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSux_tGuZfB3YGhZmYijDQKFdTO2_YC_k4Mr7rGJ58kp-_h0YKfkg");
+  background-size: cover;
+}
+
+.player1{
+  background-image: url("http://static.independent.co.uk/s3fs-public/styles/article_large/public/thumbnails/image/2015/06/15/09/jon-snow.jpg");
+  background-size: cover;
+
+}
+
+.draw{
+  background-color: black;
+}
+
+.player2Wins{
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOwM37JCBGv5pzcqF5WHpxO9W4Z5cQ7rwNpwdjRqe2njkTWebr");
+  background-size: cover;
+}
+
+
+.player1Wins{
+  background-image: url("http://static.independent.co.uk/s3fs-public/styles/article_large/public/thumbnails/image/2015/06/15/09/jon-snow.jpg");
+  background-size: cover;
 }
